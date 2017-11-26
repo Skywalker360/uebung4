@@ -1,0 +1,33 @@
+Die richtigen Antworten sind hier niedergeschrieben.
+
+Aufgabe 3:
+
+b) Ein Interface kann andere Interfaces redifinieren.
+
+Aufgabe 4:
+
+d) An Interface may be implemented by at most one classifier, but one classifier may implement multiple interfaces.
+
+Aufgabe 5:
+
+a) Sobald w zerstört wird, dan wird auch z zerstört.
+c) Zu einem bestimmten Zeitpunkt kann eine Instanz von z in genau einer Instanz von w enthalten sein.
+
+Aufgabe 6:
+
+Obwohl die Begriffe im Diagramm alle englisch sind, habe ich hier die deutschen Antworten aufgeschrieben,
+da nur diese in den Vorlesungen und auf den Folien der Präsentation stehen.
+
+1. Abstrake Klasse
+2. Rolle
+3. Aggregation
+4. Klassenname
+5. Klasse
+6. Generalisierung
+7. Gerichtete Assoziation
+8. Attribut
+9. Multiplizität
+10. Komposition
+11. Assoziation
+12. Operation
+13. Stereotyp
